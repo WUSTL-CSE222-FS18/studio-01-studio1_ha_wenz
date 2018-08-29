@@ -8,6 +8,9 @@ You should review all the class policies and post any questions or clarification
 
 ***Q1.0 Please acknowledge that you will review the class policies and, if necessary, ask for any clarifications by Wed, Sept. 5.  Each person should type their name below to acknowledge this request:***
 
+Kevin Ha
+Ashley Wenz
+
 # Part 1: Choose your own IoT Adventure
 
 These will be timed activities.  Please note the timer and be sure to use your time wisely.
@@ -17,6 +20,8 @@ These will be timed activities.  Please note the timer and be sure to use your t
 Your group will be both a "Customer" and a "Designer".  First you'll prepare for your Customer role.  Browse through the "Mission" cards and select the one that interests you. You may use either the specific example on the card or be creative and try to develop another example that fits the goal given on the card. Any discussions with  Designers should not reveal the specific example you have in mind.  Try to really think about the example and how it would fit into your life as a customer. Try to build an entire story around it.  Make sure you have a clear vision in mind.
 
 ***Q1.1 Briefly describe your Mission:***
+
+Create something that is intentionally made harder to discourage bad habits like procrastination.
 
 ## Part 1.2: Finding a Designer/Customer (3 minutes)
 
@@ -28,6 +33,13 @@ Find another group to work with. The other group should be students who neither 
 
 ***Q1.2 Share some notes from your interview here and try to describe the "need" with a very brief description:***
 
+* Sharing files securely with notes attached
+* PDFS, files, between 0-25MB
+* Nice UI
+* high volume user base, daily
+
+* File Sharing
+
 (6 minutes) Reverse roles. The Customers are now Designers and vice versa.  Repeat the interview process. (Designers, complete the question above in that space)
 
 ## Part 1.4: Proposing solutions (8 minutes)
@@ -36,6 +48,14 @@ Return to your original locations.  In this step all groups will act like Design
 
 ***Q1.3 Briefly describe your solutions (use a list) and any strengths/weaknesses you see.***
 
+1. A watch connect to the cloud that supports document storage and messaging. Different groups have different permissions for transferring files to one another. File can be transferred with a note through proximity or tapping the user's id and once the file has transferred the watch vibrates and you receive a text or emoji.
+  * Weakness
+    1. Watch provides limited screen space
+  * Strength
+    1. Portable
+
+1. A computer program that stores and send files through email. Once sent and received by the other party, the screen blinks.
+
 ## Part 1.5: Feedback (10 minutes total)
 
 Meet with your corresponding group again. And, again, select which set will be Designers first.
@@ -43,6 +63,13 @@ Meet with your corresponding group again. And, again, select which set will be D
 (5 minutes) Designers:  Present your solutions and get the Customers' feedback.  As a Designer you should be open to any initial reactions.  Customers: think carefully about your original "need" and try to give both pros and cons of the proposed solutions.
 
 ***Q1.4 Designers: Briefly summarize their feedback for each solution:***
+
+1. Solution 1
+  * The watch should be able to remotely connect to another interface so you don't have to download files onto the watch.
+  * Not scalable to outside the organization for people without the watch.
+
+1. Solution 2
+  * This is good
 
 (4 minutes): Reverse roles.  Designers: Fill in your answers to the question above.
 
@@ -54,11 +81,19 @@ In this phase everyone is thinking like a Designer.  Design thinking also relies
 
 ***Q1.5 Based on the feedback, how might you change your solution?***
 
+1. First solution had some issues with scalability for users outside the organization and ability to import files onto the device. To improve this solution, we would need a device that everyone has with network functionality.
+1. Second solution was flawless both in scalability and functionality.
+
+
 ## Part 1.7 Evaluation (5 minutes)
 
 Switch back to being a Customer and thinking about the product you want and the need it should meet.  Pick three (3) Criteria cards that are most important to you and order them from most important to least important.
 
 ***Q1.6 List your three top Criteria:***
+
+1. Attraction
+1. Feasibility
+1. Sustainability
 
 ## Part 1.8: More Feedback (10 minutes total)
 
@@ -68,7 +103,11 @@ Meet with your corresponding group again. And, again, select which set will be D
 
 ***Q1.7 Briefly summarize your findings as a Designer.  Is the customer happy with your work?  How could it be further improved?***
 
+* Have a notification banner if you are not available to see the haptic feedback.
+
 ***Q1.8 Briefly summarize your findings as a Customer.  Will the proposed solution meet your needs?  Was it substantially different than what you may have initially envisioned?***
+
+* It exceeds expectations. It is different than what we initially envisioned, which was an alarm clock that runs around. 
 
 (5 minutes): Reverse roles.  Designers and Customers: Fill in your answers to the question above.
 
