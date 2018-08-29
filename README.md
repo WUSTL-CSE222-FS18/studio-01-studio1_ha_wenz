@@ -132,12 +132,23 @@ Part of the goal of today's studio was to provide you some "menus" for:
 - Services
   1. File sharing
   1. messaging
-  1. 
+  1. news
 - Feedback
+  1. vibrates
+  1. flash
+  1. emoji
 - Human Actions
-
+  1. proximity
+  1. tapping
+  1. rotate
 - Missions
+  1. teleportation
+  1. time saving
+  1. file sharing
 
 ### Contrast
 
 ***Q2.2 In Studio 0 you were supposed to evaluate three examples of IoT. In many cases the examples may not be able to be represented using the cards.  Provide some examples of cards that you think should be added to the deck, either based on the examples from Studio 0, or from this Studio, or based on your own interests.  Be sure to specify the suit (Mission, Thing, Services, Human Interactions, Feedback, and Criteria) as well as a brief description:***
+
+* Feedback: Shock
+* Criteria: pricing
