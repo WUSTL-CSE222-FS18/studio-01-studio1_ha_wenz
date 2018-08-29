@@ -107,7 +107,7 @@ Meet with your corresponding group again. And, again, select which set will be D
 
 ***Q1.8 Briefly summarize your findings as a Customer.  Will the proposed solution meet your needs?  Was it substantially different than what you may have initially envisioned?***
 
-* It exceeds expectations. It is different than what we initially envisioned, which was an alarm clock that runs around. 
+* It exceeds expectations. It is different than what we initially envisioned, which was an alarm clock that runs around.
 
 (5 minutes): Reverse roles.  Designers and Customers: Fill in your answers to the question above.
 
@@ -122,10 +122,20 @@ Part of the goal of today's studio was to provide you some "menus" for:
 
 ***Q2.1 Without reviewing the cards, provide three examples of each type of card along with a brief description (try your best).  Add your answers as a sub-list for each type here:***
 - Criteria
+  1. Sustainability
+  1. User Friendly
+  1. functionality
 - Things
+  1. Refrigerator
+  1. watch
+  1. Computer
 - Services
+  1. File sharing
+  1. messaging
+  1. 
 - Feedback
 - Human Actions
+
 - Missions
 
 ### Contrast
